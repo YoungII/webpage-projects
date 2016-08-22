@@ -1,0 +1,134 @@
+/*
+*/
+body{background-color: #FFFFFF;
+margin: 0;
+}
+
+#wrapper{
+
+background-color: #FFFFFF;
+width: 800px;
+margin: auto;
+}
+
+#leftcolumn{width: 540px;
+float: left;
+}
+
+#leftcolumn ul{color: #b30311}
+
+#leftcolumn a{text-decoration: none;}
+
+#section{ float: left;}
+
+#welcome {
+Font-family: tahoma;
+font-size: x-small;
+width : 256px;
+float : left;
+background-color : #FFFFFF;
+border-right: 1px solid red;
+padding-left : 5px;
+padding-right : 5px;
+
+}
+
+#about {
+Font-family: tahoma;
+font-size: x-small;
+width : 256px;
+float : left;
+background-color : #FFFFFF;
+padding-left : 5px;
+padding-right : 5px;
+
+}
+
+#service {
+Font-family: tahoma;
+font-size: x-small;
+width : 167px;
+float : left;
+background-color : #FFFFFF;
+border-right: 1px solid red;
+
+padding-right : 5px;
+
+}
+
+#friends {
+Font-family: tahoma;
+font-size: x-small;
+width : 167px;
+float : left;
+background-color : #FFFFFF;
+border-right: 1px solid red;
+
+padding-right : 5px;
+
+}
+
+#links {
+Font-family: tahoma;
+font-size: x-small;
+width : 167px;
+float : right;
+background-color : #FFFFFF;
+
+padding-right : 5px;
+
+}
+
+
+#rightcolumn{
+
+width: 255px;
+float : right;
+background-color: #FFFFFF;
+border-left: 1px solid red;
+}
+
+#news {
+Font-family: tahoma;
+font-size: x-small;
+width : 255px;
+overflow : auto;
+float : right;
+background-color : #FFFFFF;
+border-left: 1px solid red;
+padding-left : 5px;
+padding-right : 5px;
+margin: auto;
+position: relative;
+
+}
+
+#smallNav{
+margin: auto;
+width : 190px;
+Font-family: tahoma;
+font-size: x-small;
+background-color: #FFFFFF;
+text-align: center;
+border-bottom: 1px solid red;
+}
+
+h1{
+margin-top: 0;
+padding-left : 5px;
+}
+
+#header{ border: 1px solid black; }
+
+#footer {
+clear: both;
+background-image : url("images/Footer.jpg");
+height : 200px;
+width : 800px;
+position: bottom;
+margin-bottom: 0;
+margin: auto;
+}
+
+a:link {color:#b30311;} 
+
